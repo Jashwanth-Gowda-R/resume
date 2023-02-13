@@ -131,8 +131,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         company = " Vrook-Transforming Learning"
         details = "  Designed,Developed and Implemented the below web application from the ground up :"
         [[params.experience.list.items]]
-        details = "Booksbeka E-commerce Web Application - Booksbeka.com is Karnataka's largest online store for engineering books,connecting students, colleges, and suppliers.My role was to design, develop and deploy this application using the OpenCart framework.
-        Technologies used: Bootstrap, Sass, Javascript, Opencart, MySQL"
+        details = "Booksbeka E-commerce Web Application - Booksbeka.com is Karnataka's largest online store for engineering books,connecting students, colleges, and suppliers.My role was to design, develop and deploy this application using the OpenCart framework.Technologies used: Bootstrap, Sass, Javascript, Opencart, MySQL"
         [[params.experience.list.items]]
         details = "Open EDX -  Open edX is an open-source Edu-Tech Platform that provides learner-centric, enables online campuses,instructor-led courses, degree programs, and self-paced courses using a single platform. Key components of the project: Learning Management System (LMS) and Content management system(CMS).My role was to design and develop a Mobile Responsive Theme for Learning Management System (LMS). Technologies used: Bootstrap, Sass,  Javascript, Docker and Kubernetes."
         [[params.experience.list.items]]
