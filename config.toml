@@ -161,10 +161,27 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.projects.list]]
-        title = "This Resume"
-        meta = "GitHub project"
-        url = "https://github.com/codewithbas/resume"
-        tagline = "A resume with a free PDF generator"
+        title = "Mishmi (Idu) Dictionary"
+        meta = "Flutter,Dart"
+        url = "https://play.google.com/store/apps/details?id=imcls.dictionary.demo_flutter"
+        tagline = "It is Android application,the primary focus of this beginner-friendly dictionary is aimed at younger generations 
+        of the Mishmi (Idu) community. This initiative is towards the promotion and preservation of Mishmi (Idu) language. 
+        Involved in designing and developing an audio player corresponding to word in the entire app and worked on some frontend features in this app."
+
+        [[params.projects.list]]
+        title = "Vernacular Archive of Northeast India - VANI"
+        meta = "Javascript,Sass,Bootstrap"
+        url = "https://github.com/Jashwanth-Gowda-R/Project-Vani.github.io"
+        tagline = "VANI for short - is an initiative aimed at documentation, digitization, and development of technology tools for the vernacular languages of Northeast India.
+        Involved in designing and developing Mobile responsive theme customization for the website. "
+
+        [[params.projects.list]]
+        title = "Foodveda E-commerce Web Application"
+        meta = "Opencart,Javascript,Mysql,Scss"
+        url = "https://foodveda.in/"
+        tagline = "This application was developed to help preserve traditional recipes and bring good health to consumers.
+        Designed and developed this application using the OpenCart framework.
+        Technologies used: Bootstrap, Sass,  Javascript, Opencart, MySQL    "
 
 
     [params.information]
