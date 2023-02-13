@@ -115,14 +115,9 @@ googleAnalytics = "UA-XXXXXXX-Y"
         company = "Digital Green"
         details = "Developed and Implemented the below mobile and web application from the ground up :"
         [[params.experience.list.items]]
-        details = "Farmstack Datahub - FarmStack is a digital infrastructure for secured data sharing for food and agriculture. 
-	    FarmStack helps users share data directly with each other and enforce usage policy that restricts unintended misuse of data.
-        My role was to develop frontend side of  this application using the React Library.
-        Technologies used:  Javascript, ReactJS,Mui,Bootstrap."
+        details = "Farmstack Datahub - FarmStack is a digital infrastructure for secured data sharing for food and agriculture.FarmStack helps users share data directly with each other and enforce usage policy that restricts unintended misuse of data.My role was to develop frontend side of  this application using the React Library.Technologies used:  Javascript, ReactJS,Mui,Bootstrap."
         [[params.experience.list.items]]
-        details = " KD Officer : A mobile app used by ground front line workers to collect farmer’s crop harvest data   
-        that helps FPOs make informed decision about the sales planning.
-        My role was to develop frontend side of  this application using the Flutter Framework."
+        details = " KD Officer : A mobile app used by ground front line workers to collect farmer’s crop harvest data that helps FPOs make informed decision about the sales planning.My role was to develop frontend side of  this application using the Flutter Framework."
         [[params.experience.list.items]]
         details = "Explored new technologies and upgraded the existing tech stack."
         [[params.experience.list.items]]
@@ -136,24 +131,14 @@ googleAnalytics = "UA-XXXXXXX-Y"
         company = " Vrook-Transforming Learning"
         details = "  Designed,Developed and Implemented the below web application from the ground up :"
         [[params.experience.list.items]]
-        details = "Booksbeka E-commerce Web Application - Booksbeka.com is Karnataka's largest online store for engineering books, 	
-        connecting students, colleges, and suppliers.
-        My role was to design, develop and deploy this application using the OpenCart framework.
+        details = "Booksbeka E-commerce Web Application - Booksbeka.com is Karnataka's largest online store for engineering books,connecting students, colleges, and suppliers.My role was to design, develop and deploy this application using the OpenCart framework.
         Technologies used: Bootstrap, Sass, Javascript, Opencart, MySQL"
         [[params.experience.list.items]]
-        details = "Open EDX -  Open edX is an open-source Edu-Tech Platform that provides learner-centric, enables online 
-        campuses,instructor-led courses, degree programs, and self-paced courses using a single platform. 
-        Key components of the project: Learning Management System (LMS) and Content management system(CMS). 
-        My role was to design and develop a Mobile Responsive Theme for Learning Management System (LMS). 
-        Technologies used: Bootstrap, Sass,  Javascript, Docker and Kubernetes."
+        details = "Open EDX -  Open edX is an open-source Edu-Tech Platform that provides learner-centric, enables online campuses,instructor-led courses, degree programs, and self-paced courses using a single platform. Key components of the project: Learning Management System (LMS) and Content management system(CMS).My role was to design and develop a Mobile Responsive Theme for Learning Management System (LMS). Technologies used: Bootstrap, Sass,  Javascript, Docker and Kubernetes."
         [[params.experience.list.items]]
-        details = "Vrook-Content Web Application -  Designed and developed a web application to showcase the company’s product  
-        and  partnerships. 
-        Technologies used: WordPress, MySQL, Bootstrap, Sass and Elementor. "
+        details = "Vrook-Content Web Application -  Designed and developed a web application to showcase the company’s product and  partnerships. Technologies used: WordPress, MySQL, Bootstrap, Sass and Elementor. "
         [[params.experience.list.items]]
-        details = " Vrook-Blog Application -   Developed an end-to-end blogging platform that gives access to all teams in the company  to share 
-        their experiences and knowledge.
-        Technologies used: Ghost, MySQL, Bootstrap and Sass."
+        details = " Vrook-Blog Application -   Developed an end-to-end blogging platform that gives access to all teams in the company  to share their experiences and knowledge.Technologies used: Ghost, MySQL, Bootstrap and Sass."
 
 
 
@@ -164,24 +149,19 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Mishmi (Idu) Dictionary"
         meta = "Flutter,Dart"
         url = "https://play.google.com/store/apps/details?id=imcls.dictionary.demo_flutter"
-        tagline = "It is Android application,the primary focus of this beginner-friendly dictionary is aimed at younger generations 
-        of the Mishmi (Idu) community. This initiative is towards the promotion and preservation of Mishmi (Idu) language. 
-        Involved in designing and developing an audio player corresponding to word in the entire app and worked on some frontend features in this app."
+        tagline = "It is Android application,the primary focus of this beginner-friendly dictionary is aimed at younger generations of the Mishmi (Idu) community. This initiative is towards the promotion and preservation of Mishmi (Idu) language. Involved in designing and developing an audio player corresponding to word in the entire app and worked on some frontend features in this app."
 
         [[params.projects.list]]
         title = "Vernacular Archive of Northeast India - VANI"
         meta = "Javascript,Sass,Bootstrap"
         url = "https://github.com/Jashwanth-Gowda-R/Project-Vani.github.io"
-        tagline = "VANI for short - is an initiative aimed at documentation, digitization, and development of technology tools for the vernacular languages of Northeast India.
-        Involved in designing and developing Mobile responsive theme customization for the website. "
+        tagline = "VANI for short - is an initiative aimed at documentation, digitization, and development of technology tools for the vernacular languages of Northeast India.Involved in designing and developing Mobile responsive theme customization for the website. "
 
         [[params.projects.list]]
         title = "Foodveda E-commerce Web Application"
         meta = "Opencart,Javascript,Mysql,Scss"
         url = "https://foodveda.in/"
-        tagline = "This application was developed to help preserve traditional recipes and bring good health to consumers.
-        Designed and developed this application using the OpenCart framework.
-        Technologies used: Bootstrap, Sass,  Javascript, Opencart, MySQL    "
+        tagline = "This application was developed to help preserve traditional recipes and bring good health to consumers.Designed and developed this application using the OpenCart framework.Technologies used: Bootstrap, Sass,  Javascript, Opencart, MySQL    "
 
 
     [params.information]
