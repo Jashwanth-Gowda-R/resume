@@ -43,35 +43,21 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.skills.list]]
-        title = "Flutter "
-        [[params.skills.list]]
-        title = "Dart"
-        [[params.skills.list]]
-        title = "Javascript"
-        [[params.skills.list]]
-        title = "ReactJS"
-        [[params.skills.list]]
-        title = "Riverpod"
-        [[params.skills.list]]
-        title = "React-MUI"
-        [[params.skills.list]]
-        title = "Bootstrap"
-        [[params.skills.list]]
-        title = "Bootstrap"
-        [[params.skills.list]]
-        title = "Git"
-        [[params.skills.list]]
-        title = "Firebase"
-        [[params.skills.list]]
-        title = "Opencart"
-        [[params.skills.list]]
-        title = "Wordpress"
-        [[params.skills.list]]
-        title = "AWS (Amazon Web Services)"
-        [[params.skills.list]]
-        title = "Apache"
-        [[params.skills.list]]
-        title = "NGINX"
+        title = "Technical Skills "
+        items="Flutter"
+        items="Dart"
+        items="Javascript"
+        items="ReactJS"
+        items="Riverpod"
+        items="React-MUI"
+        items="Bootstrap"
+        items="Git"
+        items="Firebase"
+        items="Opencart"
+        items="Wordpress"
+        items="AWS (Amazon Web Services)"
+        items="Apache"
+        items="NGINX"
 
 
 
