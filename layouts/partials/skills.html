@@ -2,7 +2,7 @@
   <h3 class="text-uppercase resume-section-heading mb-4">
     {{ i18n "skills" }}
   </h3>
-
+  <h4 class="item-title">Technical</h4>
   {{ range .Site.Params.skills.list }}
   <div class="item">
     <h4 class="item-title">{{ .title }}</h4>
@@ -12,6 +12,13 @@
       {{ end }}
     </ul>
   </div>
+  <h4 class="item-title">Professional</h4>
+  <ul class="list-unstyled resume-skills-list">
+    <li class="mb-2">Effective communication</li>
+    <li class="mb-2">Team player</li>
+    <!-- <li class="mb-2">Public Speaker</li>
+    <li class="mb-2">Coaching &amp; Training</li> -->
+  </ul>
   <!--//item-->
   {{ end }}
 </section>

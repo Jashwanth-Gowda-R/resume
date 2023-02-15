@@ -56,6 +56,23 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "React-MUI"
         [[params.skills.list]]
         title = "Bootstrap"
+        [[params.skills.list]]
+        title = "Bootstrap"
+        [[params.skills.list]]
+        title = "Git"
+        [[params.skills.list]]
+        title = "Firebase"
+        [[params.skills.list]]
+        title = "Opencart"
+        [[params.skills.list]]
+        title = "Wordpress"
+        [[params.skills.list]]
+        title = "AWS (Amazon Web Services)"
+        [[params.skills.list]]
+        title = "Apache"
+        [[params.skills.list]]
+        title = "NGINX"
+
 
 
     [params.education]
