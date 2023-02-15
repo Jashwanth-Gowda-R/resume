@@ -44,20 +44,34 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
         [[params.skills.list]]
         title = "Technical Skills "
-        items="Flutter"
-        items="Dart"
-        items="Javascript"
-        items="ReactJS"
-        items="Riverpod"
-        items="React-MUI"
-        items="Bootstrap"
-        items="Git"
-        items="Firebase"
-        items="Opencart"
-        items="Wordpress"
-        items="AWS (Amazon Web Services)"
-        items="Apache"
-        items="NGINX"
+        [[params.skills.list.items]]
+        details="Flutter"
+        [[params.skills.list.items]]
+        details="Dart"
+        [[params.skills.list.items]]
+        details="Javascript"
+        [[params.skills.list.items]]
+        details="ReactJS"
+        [[params.skills.list.items]]
+        details="Riverpod"
+        [[params.skills.list.items]]
+        details="React-MUI"
+        [[params.skills.list.items]]
+        details="Bootstrap"
+        [[params.skills.list.items]]
+        details="Git"
+        [[params.skills.list.items]]
+        details="Firebase"
+        [[params.skills.list.items]]
+        details="Opencart"
+        [[params.skills.list.items]]
+        details="Wordpress"
+        [[params.skills.list.items]]
+        details="AWS (Amazon Web Services)"
+        [[params.skills.list.items]]
+        details="Apache"
+        [[params.skills.list.items]]
+        details="NGINX"
 
 
 
