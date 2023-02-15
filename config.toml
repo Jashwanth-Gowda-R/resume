@@ -73,7 +73,16 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list.items]]
         details="NGINX"
 
-
+        [[params.skills.list]]
+        title = "Professional Skills "
+        [[params.skills.list.items]]
+        details="Team Work"
+        [[params.skills.list.items]]
+        details="Time Management"
+        [[params.skills.list.items]]
+        details="Self Motivation"
+        [[params.skills.list.items]]
+        details="Adaptability"
 
     [params.education]
         enable = true
