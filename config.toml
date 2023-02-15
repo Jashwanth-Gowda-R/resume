@@ -56,6 +56,23 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "React-MUI"
         [[params.skills.list]]
         title = "Bootstrap"
+        [[params.skills.list]]
+        title = "Bootstrap"
+        [[params.skills.list]]
+        title = "Git"
+        [[params.skills.list]]
+        title = "Firebase"
+        [[params.skills.list]]
+        title = "Opencart"
+        [[params.skills.list]]
+        title = "Wordpress"
+        [[params.skills.list]]
+        title = "AWS (Amazon Web Services)"
+        [[params.skills.list]]
+        title = "Apache"
+        [[params.skills.list]]
+        title = "NGINX"
+
 
 
     [params.education]
@@ -182,8 +199,8 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
         [[params.social.list]]
         icon = "fab fa-github-square"
-        url = "https://github.com/codewithbas"
-        title = "https://github.com/codewithbas"
+        url = "https://github.com/Jashwanth-Gowda-R"
+        title = "https://github.com/Jashwanth-Gowda-R"
         [[params.social.list]]
         icon = "fab fa-linkedin"
         url = "https://www.linkedin.com/in/jashwanthgowda-6666"
