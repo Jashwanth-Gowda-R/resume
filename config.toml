@@ -35,8 +35,8 @@ googleAnalytics = "UA-XXXXXXX-Y"
         text = "webdevjash6@gmail.com"
         [[params.contact.list]]
         icon = "fas fa-globe"
-        url = "https://jashwanthgowda.vercel.app/"
-        text = "https://jashwanthgowda.vercel.app/"
+        url = "https://jashwanthgowda.netlify.app/"
+        text = "https://jashwanthgowda.netlify.app/"
 
 
     [params.skills]
@@ -120,7 +120,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.summary]
         enable = true
-        text = "I'm a self-taught Software Engineer and Passionate Flutter Developer with 2+ years of experience, Primarily focused on Designing and Developing Flutter-based Applications. I have the experience of building Mobile Applications for Android using Flutter,Web Applications using Flutter, ReactJs, Opencart, WordPress, Ghost & Jekyll, and Responsive mobile-first sites with Bootstrap & Sass."
+        text = "I am a self-taught Front-end Engineer with more than 2 years of industry experience. I am currently focusing on building both mobile and web applications using Flutter."
 
 
     [params.experience]
@@ -132,15 +132,11 @@ googleAnalytics = "UA-XXXXXXX-Y"
         company = "Digital Green"
         details = "Developed and Implemented the below mobile and web application from the ground up :"
         [[params.experience.list.items]]
-        details = "Farmstack Datahub - FarmStack is a digital infrastructure for secured data sharing for food and agriculture.FarmStack helps users share data directly with each other and enforce usage policy that restricts unintended misuse of data.My role was to develop frontend side of  this application using the React Library.Technologies used:  Javascript, ReactJS,Mui,Bootstrap."
+        details = "Developed a mobile-first application using Flutter to document the process of crop creation and create farmers’ profiles."
         [[params.experience.list.items]]
-        details = " KD Officer : A mobile app used by ground front line workers to collect farmer’s crop harvest data that helps FPOs make informed decision about the sales planning.My role was to develop frontend side of  this application using the Flutter Framework."
+        details = " Involved in developing a datahub platform for enabling direct data sharing between organizations to prevent unintentional data misuse. Built the front-end of this application using ReactJS from the ground up with a small team of three engineers."
         [[params.experience.list.items]]
-        details = "Explored new technologies and upgraded the existing tech stack."
-        [[params.experience.list.items]]
-        details = "Responsible for all the Bug fixes, Documentation and feature implementation of the Flutter Consent Module."
-        [[params.experience.list.items]]
-        details = "Troubleshooted style issues, browser compatibility issues."
+        details = "Responsible for bug fixes and documentation."
 
         [[params.experience.list]]
         title = "Software Engineer Intern"
@@ -148,13 +144,11 @@ googleAnalytics = "UA-XXXXXXX-Y"
         company = " Vrook-Transforming Learning"
         details = "  Designed,Developed and Implemented the below web application from the ground up :"
         [[params.experience.list.items]]
-        details = "Booksbeka E-commerce Web Application - Booksbeka.com is Karnataka's largest online store for engineering books,connecting students, colleges, and suppliers.My role was to design, develop and deploy this application using the OpenCart framework.Technologies used: Bootstrap, Sass, Javascript, Opencart, MySQL"
+        details = "Designed and developed custom mobile-responsive themes for OpenEdX LMS."
         [[params.experience.list.items]]
-        details = "Open EDX -  Open edX is an open-source Edu-Tech Platform that provides learner-centric, enables online campuses,instructor-led courses, degree programs, and self-paced courses using a single platform. Key components of the project: Learning Management System (LMS) and Content management system(CMS).My role was to design and develop a Mobile Responsive Theme for Learning Management System (LMS). Technologies used: Bootstrap, Sass,  Javascript, Docker and Kubernetes."
+        details = "Implemented new features for booksbeka.com using OpenCart."
         [[params.experience.list.items]]
-        details = "Vrook-Content Web Application -  Designed and developed a web application to showcase the company’s product and  partnerships. Technologies used: WordPress, MySQL, Bootstrap, Sass and Elementor. "
-        [[params.experience.list.items]]
-        details = " Vrook-Blog Application -   Developed an end-to-end blogging platform that gives access to all teams in the company  to share their experiences and knowledge.Technologies used: Ghost, MySQL, Bootstrap and Sass."
+        details = "Designed and developed the company’s blogsite using GhostJS. "
 
 
 
