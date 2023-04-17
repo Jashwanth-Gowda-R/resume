@@ -173,6 +173,18 @@ googleAnalytics = "UA-XXXXXXX-Y"
         url = "https://foodveda.in/"
         tagline = "This application was developed to help preserve traditional recipes and bring good health to consumers.Designed and developed this application using the OpenCart framework.Technologies used: Bootstrap, Sass,  Javascript, Opencart, MySQL    "
 
+        [[params.projects.list]]
+        title = "XRI Institute"
+        meta = ""
+        url = "https://xri.institute/"
+        tagline = "Worked as a data curator and data annotator for creating a stakeholder network for low-resource languages.  "
+
+        [[params.projects.list]]
+        title = "NammaLocal"
+        meta = "Opencart,Javascript,Mysql,Scss"
+        url = "https://foodveda.in/"
+        tagline = "Designed and developed an e-commerce web application using Opencart that provides a platform for local sellers to showcase their products. "
+
 
     [params.information]
         enable = false
